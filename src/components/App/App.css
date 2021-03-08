@@ -1,0 +1,11 @@
+body{
+    background: #0f1228;
+    overflow-x: hidden;
+    color: aliceblue;
+    font-family: 'Lucida Sans',  sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}

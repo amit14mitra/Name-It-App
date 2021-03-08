@@ -1,0 +1,28 @@
+.name-card-div{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+    color: lightgray;
+    background: grey;
+    margin: 20px 30px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    min-width: 70px;
+    box-shadow: 0 0 4px rgba(255,255,255,0.1);
+    transition: background 0.35s;
+}
+
+.name-card-div:hover{
+    background: #4a5079;
+    box-shadow: 0 0 4px rgba(255,255,255,0.2);
+}
+
+.name-link{
+    text-decoration: none;
+}
+
+.name-card{
+    font-weight: 100;
+    margin: 0;
+}
